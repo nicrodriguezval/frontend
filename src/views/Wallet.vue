@@ -1,4 +1,5 @@
 <template>
+
 <div>
 <nav class="navbar navbar-expand-lg navbar-light bg-white">
     <div class="container">
@@ -72,6 +73,7 @@
     </div>
     <br>
 </div>
+
 <partial name="footer"></partial> 
 </div>
 
